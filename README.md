@@ -1,6 +1,7 @@
 # YAMAHA-Corp
 Please read the readme.txt and I will do modification soon. Thank you for you understanding.
-=============================================================================
+
+
 Designer: 	Youmin XUE
 Date:		July.2019 to Aug.2019
 Title:		Denoise-GAN based on YAMAHA Music Intruments' noise dataset
@@ -12,12 +13,14 @@ Reference: 	SEGAN
 
 *Please train the model by using three different dataset.
 Make sure each sample is .wav format and the name of noise&clean one are same.
-==============================================================================
+
+
 Name of Dataset			num of clean		num of noisy
 16FortePiano			     453		    453
 17CFX				     440		    440
 rhode_piano			     615		    615
-============================================================================== 
+
+
 
 1.Run command in terminal
 -------------------------------
