@@ -1,15 +1,15 @@
 # YAMAHA-Corp
 Please read the readme.txt and I will do modification soon. Thank you for you understanding.
 
-===
+
 Designer: 	Youmin XUE
-===
+
 Date:		July.2019 to Aug.2019
-===
+
 Title:		Denoise-GAN based on YAMAHA Music Intruments' noise dataset
-===
+
 Reference: 	SEGAN
-===
+
 <paper resource>https://arxiv.org/pdf/1703.09452.pdf
 <github>https://github.com/santi-pdp/segan
 
