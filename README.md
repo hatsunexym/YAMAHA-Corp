@@ -39,11 +39,14 @@ bash ./train.sh
 to train the model.
 
 -------------------------------
-3.result will be saved in document: segan_results,
-  sample result will be saved in document: segan_allbiased_preemph
+3.result
 -------------------------------
+Results will be saved in document: segan_results,
+sample result will be saved in document: segan_allbiased_preemph
+
 
 -------------------------------
-4.If you want to switch the training epoch and batch_size (default : epoch=86, batchsize=100)
-plz change the value in 'train.sh' and 'main.py'
+4.PS:
 -------------------------------
+If you want to switch the training epoch and batch_size (default : epoch=86, batchsize=100)
+plz change the value in 'train.sh' and 'main.py'
