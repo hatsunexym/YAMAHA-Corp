@@ -24,7 +24,7 @@ Name of Dataset			num of clean		num of noisy
 rhode_piano			     615		    615
 
 
--------------------------------
+------------------------------- 
 1.Run command in terminal
 -------------------------------
 bash ./prepare_data_yamaha.sh
